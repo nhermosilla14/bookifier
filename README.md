@@ -2,10 +2,10 @@ Bookifier
 ==========
 An easy way to print bind-ready booklets, in order to make (actually assemble) books right in your desktop.
 ------------------------------------------------------------------------------------------------------------
-The main goal is to be able to print books in a flexible an easy way. Currently, it supports:
+The main goal is to be able to print books in a flexible and easy way. Currently, it supports:
 
 - Creating a ready-to-print pdf with as many sheets per booklet as you want.
-- Autofill with blank pages ir order to use any number of pages as input.
+- Autofill with blank pages in order to use any number of pages as input.
 
 Usage
 -----
